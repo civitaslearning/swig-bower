@@ -1,0 +1,22 @@
+{
+  "name": "civswig",
+  "version": "1.1.0",
+  "authors": [
+    "Gaurav Sanghani <gaurav.sanghani@civitaslearning.com>"
+  ],
+  "description": "Bower compatible version of Swig (https://github.com/paularmstrong/swig/) that has been pre-built into a single file",
+  "main": "swig.js",
+  "keywords": [
+    "swig"
+  ],
+  "license": "Custom",
+  "homepage": "https://github.com/paularmstrong/swig/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
